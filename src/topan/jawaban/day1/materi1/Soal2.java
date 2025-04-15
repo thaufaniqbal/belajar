@@ -7,3 +7,5 @@ public class Soal2{
         System.out.println("SMK 4 PELAYARAN");
     }
 }
+
+//jos mantap 100
