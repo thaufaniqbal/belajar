@@ -15,3 +15,5 @@ public class Soal1{
 
     }
 }
+
+//arul mantap, lanjutkan
