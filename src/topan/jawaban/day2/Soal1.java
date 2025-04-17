@@ -38,3 +38,5 @@ public class Soal1{
        System.out.println(iniBooleanFalse);
     }
 }
+
+//package jangan copas rul, di tulis sesuai urutan package ya

@@ -18,3 +18,4 @@ public class Soal2{
     }
 
 }
+//package jangan copas rul, di tulis sesuai urutan package ya
