@@ -11,7 +11,8 @@ public class Soal1 {
         int pertambahan = nilai1 + nilai3;
         int perkalian = nilai2 * nilai1;
         int pengurangan = nilai4 - nilai1;
+        int pembagian = nilai1 / nilai4;
 
-        System.out.println(pertambahan + perkalian + pengurangan);
+        System.out.println(pertambahan + perkalian - pengurangan * pembagian / pertambahan);
     }
 }
