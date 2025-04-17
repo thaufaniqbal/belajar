@@ -16,3 +16,6 @@ public class Soal1 {
         System.out.println(pertambahan + perkalian - pengurangan * pembagian / pertambahan);
     }
 }
+
+//mungkin bisa di implementasiin kaya materi 1 soal 1
+//        System.out.println("pertambahan dari nilai1 : " + nilai1 + " nilai2: " + nilai2 + " adalah " + (nilai1 + nilai2));
