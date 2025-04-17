@@ -2,7 +2,7 @@ package topan.soal.day2;
 
 public class Materi1 {
     public static void main(String[] args) {
-        //tipeData $namaVariable = nilaiVariable;
+        //tipeData $namaVariabel = nilaiVariabel;
         String iniString = "topan";
         int iniInteger = 17;
         long iniLong = 4;
