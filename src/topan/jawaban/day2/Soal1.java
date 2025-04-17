@@ -1,4 +1,4 @@
-package topan.soal.day2;
+package topan.jawaban.day2;
 
 public class Soal1{
     public static void main(String[] args){
